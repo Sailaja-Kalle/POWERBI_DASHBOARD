@@ -34,7 +34,7 @@ This project focuses on analyzing Adventure Works sales data to understand yearl
 * Product category comparison
 * KPI cards for total sales, total orders, and profit
 
- Dashboard Interaction <a href="">View Dashboard</a>
+ Dashboard Interaction <a href="https://github.com/Sailaja-Kalle/POWERBI_DASHBOARD/blob/main/POWERBI_DASHBOARD.png">View Dashboard</a>
 
 
 ## 📈 **Key Insights**
